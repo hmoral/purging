@@ -9,5 +9,5 @@ The model simulated an exome of 10,000 genes of 500 bp each with a recombination
 - Parallel for bash
 
 ### test run
-A single replicate for a small run with an ancestral population size Ne=1000
+A single replicate for a small run with an ancestral population size Ne=1000. 
 ```slim -d "K=1000" -d "outPath='./'" -d "outName='out_test'" -d "del_mut=10000" purging_WFnonWF_uncondLoad_exome.slim```
