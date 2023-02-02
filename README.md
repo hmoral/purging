@@ -6,6 +6,7 @@ The model simulated an exome of 10,000 genes of 500 bp each with a recombination
 
 ## References
 Kardos, M., Armstrong, E. E., Fitzpatrick, S. W., Hauser, S., Hedrick, P. W., Miller, J. M., ... & Funk, W. C. (2021). The crucial role of genome-wide genetic variation in conservation. Proceedings of the National Academy of Sciences, 118(48), e2104642118.
+
 Bertorelle, G., Raffini, F., Bosse, M., Bortoluzzi, C., Iannucci, A., Trucchi, E., ... & Van Oosterhout, C. (2022). Genetic load: genomic estimates and applications in non-model animals. Nature Reviews Genetics, 23(8), 492-503.
 
 ## Code dependencies:
