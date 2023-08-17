@@ -1,5 +1,5 @@
 # Simulations for 
-**Dussex, N., Morales, H. E., Grossen, C., Dalén, L., & van Oosterhout, C. (2023). Purging and accumulation of genetic load in conservation. Trends in Ecology & Evolution. 
+**Dussex, N., Morales, H. E., Grossen, C., Dalén, L., & van Oosterhout, C. (2023). Purging and accumulation of genetic load in conservation. Trends in Ecology & Evolution.  
 https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(23)00131-3 
 
 ## Methods
